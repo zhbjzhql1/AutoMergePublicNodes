@@ -481,7 +481,7 @@ proxies:
     path: /@V2RayyNGvpn
 - alterId: 0
   cipher: auto
-  name: '3,7|🇺🇸_US_美国->🇫🇷_FR_法国 #1'
+  name: '3,7,17|🇺🇸_US_美国->🇫🇷_FR_法国 #4'
   network: ws
   port: 2082
   server: 104.21.8.157
@@ -547,7 +547,7 @@ proxies:
     path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
 - alterId: 0
   cipher: auto
-  name: 6|🇺🇸_US_美国->🇨🇦_CA_加拿大
+  name: '6,17|🇺🇸_US_美国 #35'
   network: ws
   port: 8080
   server: 162.159.1.33
@@ -560,7 +560,7 @@ proxies:
     path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
 - alterId: 0
   cipher: auto
-  name: '6,7|🇱🇺_LU_卢森堡 #3'
+  name: '6,7,17|🇱🇺_LU_卢森堡 #5'
   network: http
   port: 3389
   server: 78.111.102.232
@@ -582,7 +582,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '6|🇺🇸_US_美国 #9'
+  name: '6,17|🇺🇸_US_美国 #37'
   network: ws
   port: 2095
   server: russia.com
@@ -606,7 +606,7 @@ proxies:
     path: /ea4909ef-7ca6-4b46-bf2e-6c07896ef338-vm
 - alterId: 0
   cipher: auto
-  name: '6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #1'
+  name: '6,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #6'
   network: ws
   port: 8080
   server: 162.159.137.249
@@ -658,7 +658,7 @@ proxies:
     path: 9258153a-dc97-4e39-9037-009abfc4fed0-vm
 - alterId: 0
   cipher: auto
-  name: '6,7|🇦🇪_AE_阿联酋->🇬🇧_GB_英国 #1'
+  name: '6,7,17|🇦🇪_AE_阿联酋->🇬🇧_GB_英国 #2'
   network: ws
   port: 8880
   server: 94.140.0.110
@@ -671,7 +671,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '6|🇨🇦_CA_加拿大 #2'
+  name: '6,17|🇨🇦_CA_加拿大->🇺🇸_US_美国 #1'
   network: ws
   port: 8080
   server: 23.227.38.22
@@ -684,7 +684,7 @@ proxies:
     path: 9258153a-dc97-4e39-9037-009abfc4fed0-vm
 - alterId: 0
   cipher: auto
-  name: '6,7|🇺🇸_US_美国->🇨🇦_CA_加拿大 #4'
+  name: '6,7,17|🇺🇸_US_美国 #33'
   network: ws
   port: 8080
   server: fbi.gov
@@ -697,7 +697,7 @@ proxies:
     path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
 - alterId: 0
   cipher: auto
-  name: '6,7|🇺🇸_US_美国 #20'
+  name: '6,7,17|🇺🇸_US_美国 #34'
   network: ws
   port: 8080
   server: yh3.freeh1.xyz
@@ -749,7 +749,7 @@ proxies:
     path: 9b196b50-37f2-4f4b-b175-06273adc6207-vm
 - alterId: 0
   cipher: auto
-  name: '6,7|🇨🇦_CA_加拿大 #6'
+  name: '6,7,17|🇨🇦_CA_加拿大 #7'
   network: http
   port: 3389
   server: 134.122.41.160
@@ -771,7 +771,7 @@ proxies:
     path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
 - alterId: 0
   cipher: auto
-  name: '6|🇺🇸_US_美国 #16'
+  name: '6,17|🇺🇸_US_美国 #36'
   network: ws
   port: 8080
   server: 162.159.130.208
@@ -784,7 +784,7 @@ proxies:
     path: 55021a7c-bd6c-418e-be95-ceac8ba27b45-vm
 - alterId: 0
   cipher: auto
-  name: 6|🇫🇷_FR_法国
+  name: '6,17|🇫🇷_FR_法国 #1'
   network: http
   port: 3389
   server: 51.159.155.52
@@ -793,7 +793,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: '6,7|🇱🇺_LU_卢森堡 #2'
+  name: '6,7,17|🇱🇺_LU_卢森堡 #4'
   network: http
   port: 3389
   server: 45.82.31.164
@@ -880,7 +880,7 @@ proxies:
     path: 9258153a-dc97-4e39-9037-009abfc4fed0-vm
 - alterId: 0
   cipher: auto
-  name: '7,11|美国 CloudFlare节点 #5'
+  name: '7,11,17|🇺🇸_US_美国->🇫🇷_FR_法国 #3'
   network: ws
   port: 2082
   server: 172.67.130.140
@@ -2598,3 +2598,16 @@ proxies:
   tls: false
   type: vmess
   uuid: db3c11d8-ae65-40ff-a256-babee94056f6
+- alterId: 0
+  cipher: auto
+  name: '17|🇺🇸_US_美国 #38'
+  network: ws
+  port: 2095
+  server: 104.26.4.57
+  tls: false
+  type: vmess
+  uuid: 6658a3a6-225a-4d33-a5d2-82cfde565b4e
+  ws-opts:
+    headers:
+      Host: ssrsub.v03.ssrsub.com
+    path: /api/v3/download.getFile
