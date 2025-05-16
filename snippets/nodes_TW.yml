@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 11|1|🇹🇼2 |  1.2MB/s|6%|Netflix|Di...
+  name: 8|1|🇹🇼2 |  1.2MB/s|6%|Netflix|Di...
   network: tcp
   port: 20016
   server: i.needss.top
